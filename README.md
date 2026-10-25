@@ -79,7 +79,7 @@ A retail company wants to better understand its customers in order to improve ma
 ## 🏗️ Project Architecture
 
 <p align="center">
-  <img src="images/architecture.png" alt="Project architecture: Raw CSV to Python to PostgreSQL to Power BI" width="100%">
+  <img src="architecture.png" alt="Project architecture: Raw CSV to Python to PostgreSQL to Power BI" width="100%">
 </p>
 
 ---
