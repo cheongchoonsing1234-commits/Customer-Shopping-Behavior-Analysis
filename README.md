@@ -202,7 +202,7 @@ df.to_sql("customer", engine, if_exists="replace", index=False)
 
 ## 🔎 Step 3: SQL Business Analysis
 
-📄 Full script: [`SQL.sql`](SQL.sql)
+📄 Full script: [`Customer_Shopping_Behavior_Analysis.sql`](Customer_Shopping_Behavior_Analysis.sql)
 
 Ten business questions were answered using SQL. The techniques used are listed next to each question.
 
