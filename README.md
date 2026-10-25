@@ -96,7 +96,7 @@ A retail company wants to better understand its customers in order to improve ma
 | Categories | 4 (Clothing, Footwear, Accessories, Outerwear) |
 | Unique items | 25 |
 | Unique locations | 50 (US states) |
-| Source | *(add the dataset link here, e.g. Kaggle)* |
+| Source | [`customer_shopping_behavior.csv`](customer_shopping_behavior.csv) |
 
 ### Data Dictionary
 
