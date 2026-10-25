@@ -415,7 +415,7 @@ export PG_PASSWORD="your_password"
 
 ## 🙏 Acknowledgements
 
-This project was built while following the tutorial: [End-to-End Data Analyst Project (YouTube)](https://www.youtube.com/watch?v=5PrZvPeUw60). The dataset comes from *(add the dataset source here)*.
+This project was built while following the tutorial: [End-to-End Data Analyst Project (YouTube)](https://www.youtube.com/watch?v=5PrZvPeUw60). The dataset comes from  [`customer_shopping_behavior.csv`](customer_shopping_behavior.csv).
 
 ---
 
