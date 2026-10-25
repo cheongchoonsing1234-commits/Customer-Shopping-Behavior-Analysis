@@ -78,12 +78,11 @@ A retail company wants to better understand its customers in order to improve ma
 
 ## 🏗️ Project Architecture
 
-```
- ┌──────────────────┐     ┌────────────────────┐     ┌───────────────────┐     ┌──────────────────┐
- │  Raw CSV dataset │ ──▶ │ Python (pandas)    │ ──▶ │ PostgreSQL        │ ──▶ │ Power BI         │
- │  3,900 rows      │     │ Clean + engineer   │     │ `customer` table  │     │ Interactive      │
- │  18 columns      │     │ features           │     │ + SQL analysis    │     │ dashboard        │
- └──────────────────┘     └────────────────────┘     └───────────────────┘     └──────────────────┘
+```mermaid
+flowchart LR
+    A["Raw CSV dataset<br/>3,900 rows · 18 columns"] --> B["Python (pandas)<br/>Clean + engineer features"]
+    B --> C["PostgreSQL<br/>customer table + SQL analysis"]
+    C --> D["Power BI<br/>Interactive dashboard"]
 ```
 
 ---
