@@ -423,8 +423,8 @@ This project was built while following the tutorial: [End-to-End Data Analyst Pr
 
 **Your Name**
 
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/cheong-choon-sing-19291b36a/))
+- 🐙 GitHub: [@your-username]([https://github.com/your-username](https://github.com/cheongchoonsing1234-commits))
+- 📧 Email: cheongchoonsing1234@gmail.com
 
 ⭐ If you found this project useful, please consider giving it a star!
