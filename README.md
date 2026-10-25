@@ -78,22 +78,9 @@ A retail company wants to better understand its customers in order to improve ma
 
 ## 🏗️ Project Architecture
 
-```mermaid
-flowchart LR
-    A["📄 Raw CSV<br/>3,900 rows"] --> B["🐍 Python<br/>Clean + features"]
-    B --> C["🐘 PostgreSQL<br/>SQL analysis"]
-    C --> D["📊 Power BI<br/>Dashboard"]
- 
-    classDef raw fill:#6e7681,stroke:#6e7681,color:#ffffff,stroke-width:2px
-    classDef py fill:#3776AB,stroke:#3776AB,color:#ffffff,stroke-width:2px
-    classDef db fill:#336791,stroke:#336791,color:#ffffff,stroke-width:2px
-    classDef bi fill:#F2C811,stroke:#F2C811,color:#000000,stroke-width:2px
- 
-    class A raw
-    class B py
-    class C db
-    class D bi
-```
+<p align="center">
+  <img src="images/architecture.png" alt="Project architecture: Raw CSV to Python to PostgreSQL to Power BI" width="100%">
+</p>
 
 ---
 
