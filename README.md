@@ -28,13 +28,12 @@
 9. [Step 4: Power BI Dashboard](#-step-4-power-bi-dashboard)
 10. [Key Insights](#-key-insights)
 11. [Business Recommendations](#-business-recommendations)
-12. [Repository Structure](#-repository-structure)
-13. [How to Run This Project](#-how-to-run-this-project)
-14. [Limitations](#-limitations)
-15. [Future Improvements](#-future-improvements)
-16. [Skills Demonstrated](#-skills-demonstrated)
-17. [Acknowledgements](#-acknowledgements)
-18. [Author & Contact](#-author--contact)
+12. [How to Run This Project](#-how-to-run-this-project)
+13. [Limitations](#-limitations)
+14. [Future Improvements](#-future-improvements)
+15. [Skills Demonstrated](#-skills-demonstrated)
+16. [Acknowledgements](#-acknowledgements)
+17. [Author & Contact](#-author--contact)
 
 ---
 
@@ -336,35 +335,6 @@ All visuals respond to the slicers, so the audience can explore any customer seg
 4. **Close the gender gap.** With roughly two-thirds of customers male, run targeted campaigns and range extensions to reach female customers.
 5. **Focus marketing on the highest-revenue age group** (Q10) while developing campaigns to grow the weaker groups.
 6. **Promote best-rated products** (Q3) in marketing and use the best sellers per category (Q8) as anchor products for bundles.
-
----
-
-## 📁 Repository Structure
-
-```
-customer-shopping-behavior-analysis/
-│
-├── README.md                                      # Project documentation
-├── requirements.txt                               # Python dependencies
-├── .gitignore                                     # Files excluded from Git
-│
-├── data/
-│   └── customer_shopping_behavior.csv             # Raw dataset
-│
-├── notebooks/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb  # Cleaning + feature engineering
-│
-├── sql/
-│   └── SQL.sql                                    # 10 business queries
-│
-├── dashboard/
-│   └── Customer_Shopping_Behavior_Dashboard.pbix  # Power BI dashboard
-│
-└── images/
-    └── dashboard.png                              # Dashboard screenshot
-```
-
-> If you move files into folders like this, update the links in this README to match (for example `sql/SQL.sql`).
 
 ---
 
