@@ -80,9 +80,19 @@ A retail company wants to better understand its customers in order to improve ma
 
 ```mermaid
 flowchart LR
-    A["Raw CSV dataset<br/>3,900 rows · 18 columns"] --> B["Python (pandas)<br/>Clean + engineer features"]
-    B --> C["PostgreSQL<br/>customer table + SQL analysis"]
-    C --> D["Power BI<br/>Interactive dashboard"]
+    A["📄 Raw CSV<br/>3,900 rows"] --> B["🐍 Python<br/>Clean + features"]
+    B --> C["🐘 PostgreSQL<br/>SQL analysis"]
+    C --> D["📊 Power BI<br/>Dashboard"]
+ 
+    classDef raw fill:#6e7681,stroke:#6e7681,color:#ffffff,stroke-width:2px
+    classDef py fill:#3776AB,stroke:#3776AB,color:#ffffff,stroke-width:2px
+    classDef db fill:#336791,stroke:#336791,color:#ffffff,stroke-width:2px
+    classDef bi fill:#F2C811,stroke:#F2C811,color:#000000,stroke-width:2px
+ 
+    class A raw
+    class B py
+    class C db
+    class D bi
 ```
 
 ---
