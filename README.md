@@ -272,7 +272,7 @@ WHERE item_rank <= 3;
 
 The dashboard connects directly to the PostgreSQL `customer` table and presents the key findings on a single interactive page.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Power BI Dashboard.png)
 
 ### Dashboard components
 
