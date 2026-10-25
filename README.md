@@ -272,7 +272,7 @@ WHERE item_rank <= 3;
 
 The dashboard connects directly to the PostgreSQL `customer` table and presents the key findings on a single interactive page.
 
-![image alt]([Power BI Dashboard.png](https://github.com/cheongchoonsing1234-commits/Customer-Shopping-Behavior-Analysis/blob/main/Power%20BI%20Dashboard.png?raw=true))
+![image alt]()
 
 ### Dashboard components
 
